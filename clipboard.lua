@@ -1,1 +1,1 @@
-setclipboard("6586568455")
+setclipboard(":P")
